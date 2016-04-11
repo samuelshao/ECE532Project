@@ -145,7 +145,7 @@ end
 
 
 ////////////////////////////////////////////////////////////////////
-wire	[15:0]	LUT_DATA;		//{ID-Address£¬SUB-Address£¬Data}
+wire	[15:0]	LUT_DATA;		//{ID-AddressÂ£Â¬SUB-AddressÂ£Â¬Data}
 I2C_OV7670_RGB444_Config	u_I2C_OV7725_RGB444_Config
 (
 	.LUT_INDEX		(LUT_INDEX),

@@ -3,5 +3,7 @@
 ## Audio experiments are not integrated in the main project. The audio experiment designs, codes and ips can be found at this link https://drive.google.com/open?id=0B08YFqs5JPMJbmd3UXlYeHBfQW8
 
 ECE532 Digital Systems Design
+
 Project name: Duck Hunt Simulation Game
+
 Project Description

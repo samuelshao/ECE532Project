@@ -52,6 +52,27 @@ How to use
 
 Repository structure
 
-src/ contrains the source code, constraints, and generated IP files for the project
+docs/ contains the project report, presentation slides, and a link to the demonstration video on Youtube
 
-dfsdfs
+src/ contains the source code, constraints, and generated IP files for the project
+
+audio_ip/ contains the MicroBlaze and GPIO design for generating audio signals
+
+
+Authors
+
+Aranyak Mishra
+
+Goutham Palaniappan
+
+Yi Fan SHao
+
+
+Acknowledgements
+
+
+
+
+
+
+

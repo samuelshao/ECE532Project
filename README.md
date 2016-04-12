@@ -1,14 +1,12 @@
-# ECE532 Project
-## src: Contains modules for the main project
-## Audio experiments are not integrated in the main project. The audio experiment designs, codes and ips can be found at this link https://drive.google.com/open?id=0B08YFqs5JPMJbmd3UXlYeHBfQW8
+# ECE532 Digital Systems Design
 
-ECE532 Digital Systems Design
+ Audio experiments are not integrated in the main project. The audio experiment designs, codes and ips can be found at this link https://drive.google.com/open?id=0B08YFqs5JPMJbmd3UXlYeHBfQW8
 
 
-Project name: Duck Hunt Simulation Game
+##Project name: Duck Hunt Simulation Game
 
 
-Project Description
+##Project Description
 
 Our project is a recreation of the classical duck hunt game.
 
@@ -23,7 +21,7 @@ Score counters are incremented and decremented depending on a hit or miss.
 The game ends when the score falls below 0 or exceeds 15.
 
 
-How to use
+##How to use
 
 -Create a new Vivado project for the Nexys 4 DDR FPGA Board.
 
@@ -50,7 +48,7 @@ How to use
 -Once the game ends, press BTND to restart and pres CPU_RESET to return to the camera feed and recalibrate markers.
 
 
-Repository structure
+##Repository structure
 
 docs/ contains the project report, presentation slides, and a link to the demonstration video on Youtube
 
@@ -59,7 +57,7 @@ src/ contains the source code, constraints, and generated IP files for the proje
 audio_ip/ contains the MicroBlaze and GPIO design for generating audio signals
 
 
-Authors
+##Authors
 
 Aranyak Mishra
 
@@ -68,7 +66,7 @@ Goutham Palaniappan
 Yi Fan SHao
 
 
-Acknowledgements
+##Acknowledgements
 
 
 
